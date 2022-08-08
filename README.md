@@ -1,2 +1,3 @@
-# dio-desafio3-iac-bootcamp
-Desafio de projeto sobre provisionamento de um servidor Apache do Bootcamp Linux Experience
+# Repositório do Desafio de Projeto sobre provisionamento de um servidor Apache da Digital Innovation One Inc.
+
+Este repositório foi criado para o desafio de projeto sobre servidor Apache do Bootcamp Linux Experience
